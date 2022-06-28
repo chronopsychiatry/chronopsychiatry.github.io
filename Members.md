@@ -12,8 +12,6 @@ title: Group Members
 - Laura Lyall
 - Cathy Wyse
 - Aleks Stolicyn
-
-## Affiliates
 - Breda Cullen
 - Heather Whalley
 - Donald Lyall
