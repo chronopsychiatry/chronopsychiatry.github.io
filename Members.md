@@ -3,9 +3,9 @@ title: Group Members
 ---
 
 
-- Daniel Smith
+- [Prof Daniel Smith MD](https://www.ed.ac.uk/profile/professor-daniel-j-smith); ORCID [0000-0002-2267-1951](https://orcid.org/0000-0002-2267-1951)
 - Amy Ferguson
-- Giulia Gaggioni
+- Dr Giulia Gaggioni
 - Andrew Millar
 - Tomasz Zieliński
 - Maria Gardani
