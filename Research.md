@@ -16,9 +16,8 @@ title: Our Research
 </ul>
 
 <h5> Data science</h5>
-<ul>
-<li> Sleep and circadian parameters as predictors of depression-related outcomes </li>
-</ul>
+We are also developing methods that make use of FitBit data from the [ABCD cohort](https://abcdstudy.org/) to invetsiagte sleep and circadian parameters as predictors of depression-related outcomes in young people in the United States. This work builds on our experience with actigraphy data in SCRAMS and within the UK Biobank cohort.
+
 
 <h5> Neuroimaging</h5>
 <ul>
