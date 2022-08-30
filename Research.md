@@ -14,8 +14,9 @@ Building on the success of our <a href="https://scrams.sphsu.gla.ac.uk/">SCRAMS<
 
 
 <h5> Data science</h5>
-  We are also developing methods that make use of FitBit data from the <a href="https://abcdstudy.org/">ABCD cohort</a> to invetsiagte sleep and circadian parameters as predictors of depression-related outcomes in young people in the United States. This work builds on our experience with actigraphy data in <a href="https://scrams.sphsu.gla.ac.uk/">SCRAMS</a> and within the <a href="https://www.ukbiobank.ac.uk/">UK Biobank cohort</a>.
-
+<p>
+We are also developing methods that make use of FitBit data from the <a href="https://abcdstudy.org/">ABCD cohort</a> to invetsiagte sleep and circadian parameters as predictors of depression-related outcomes in young people in the United States. This work builds on our experience with actigraphy data in <a href="https://scrams.sphsu.gla.ac.uk/">SCRAMS</a> and within the <a href="https://www.ukbiobank.ac.uk/">UK Biobank cohort</a>.
+</p>
 
 <h5> Neuroimaging</h5>
 <p>We are also neuroimaging data from the <a href="https://www.ukbiobank.ac.uk/">UK Biobank cohort</a> to investigate causal pathways that may link sleep and circadian dysfunction with brain structure.</p>
