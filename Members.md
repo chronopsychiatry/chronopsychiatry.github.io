@@ -25,5 +25,5 @@ title: Group Members
 - [Dr HCW Bsc, MRes, PhD Heather Whalley](); ORCID [0000-0002-4505-8869](https://orcid.org/0000-0002-4505-8869); [@heathersibley99](https://twitter.com/heathersibley99)
 - [Dr Cathy Wyse](); ORCID []()
 - [Reesha Zahir](); ORCID []()
-- [Dr Tomasz Zieliński](); ORCID [0000-0002-0194-5706](https://orcid.org/0000-0002-0194-5706)
+- [Dr Tomasz Zieliński](https://www.research.ed.ac.uk/en/persons/tomasz-zielinski); ORCID [0000-0002-0194-5706](https://orcid.org/0000-0002-0194-5706)
 
