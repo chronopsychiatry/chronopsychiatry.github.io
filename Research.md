@@ -48,5 +48,13 @@ Investigating the mechanisms underlying sleep problems and mental ill health in 
 </li>
 </ul>
 
+<h3> Current Master projects </h3>
+   
+<ul>
+<li><strong>Sarah Harris</strong><br> 
+<i>Investigating the impact of lithium treatment on sleep and circadian rhythm in bipolar disorder.</i>
+</li>
+</ul>
+   
 </div>
 </div>
