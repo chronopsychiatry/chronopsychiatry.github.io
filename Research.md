@@ -9,17 +9,17 @@ title: Our Research
 
 <h5> Adolescent mental health </h5>
 <p align="justify">
-Building on the success of our <a href="https://scrams.sphsu.gla.ac.uk/" target="_blank">SCRAMS</a> project, we are extending our research on the link between sleep/circadian disruption and mental ill-health in young people. This involves co-developing and tetsing new methods for data collection and analysis, and a focus on understanding the complex inert-relationships between sleep, cognitive function, light, latitude and mood disorders such as depression and anxiety. Other work in this area makes use of the <a href="http://www.bristol.ac.uk/alspac/">ALSPAC</a> dataset to examine the relationship between sleep and mental health in individuals with autistic traits.
+Building on the success of our <a href="https://scrams.sphsu.gla.ac.uk/" target="_blank">SCRAMS</a> project, we are extending our research on the link between sleep/circadian disruption and mental ill-health in young people. This involves co-developing and tetsing new methods for data collection and analysis, and a focus on understanding the complex inert-relationships between sleep, cognitive function, light, latitude and mood disorders such as depression and anxiety. Other work in this area makes use of the <a href="http://www.bristol.ac.uk/alspac/" target="_blank">ALSPAC</a> dataset to examine the relationship between sleep and mental health in individuals with autistic traits.
 </p>
 
 
 <h5> Data science</h5>
 <p align="justify">
-We are also developing methods that make use of FitBit data from the <a href="https://abcdstudy.org/">ABCD cohort</a> to invetsiagte sleep and circadian parameters as predictors of depression-related outcomes in young people in the United States. This work builds on our experience with actigraphy data in <a href="https://scrams.sphsu.gla.ac.uk/">SCRAMS</a> and within the <a href="https://www.ukbiobank.ac.uk/">UK Biobank cohort</a>.
+We are also developing methods that make use of FitBit data from the <a href="https://abcdstudy.org/" target="_blank">ABCD cohort</a> to invetsiagte sleep and circadian parameters as predictors of depression-related outcomes in young people in the United States. This work builds on our experience with actigraphy data in <a href="https://scrams.sphsu.gla.ac.uk/" target="_blank">SCRAMS</a> and within the <a href="https://www.ukbiobank.ac.uk/" target="_blank">UK Biobank cohort</a>.
 </p>
 
 <h5> Neuroimaging</h5>
-<p align="justify">We are also neuroimaging data from the <a href="https://www.ukbiobank.ac.uk/">UK Biobank cohort</a> to investigate causal pathways that may link sleep and circadian dysfunction with brain structure.</p>
+<p align="justify">We are also neuroimaging data from the <a href="https://www.ukbiobank.ac.uk/" target="_blank">UK Biobank cohort</a> to investigate causal pathways that may link sleep and circadian dysfunction with brain structure.</p>
 
 <h5> Genomics</h5>
 <p align="justify">We are making use of exome sequencing data in UK Biobank to assess how variation in core circadian network (CCN) genes impacts on risk of depression, bipolar disorder, cognitive function and other mental and physical health outcomes.</p>
