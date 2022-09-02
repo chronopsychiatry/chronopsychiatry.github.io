@@ -1,7 +1,7 @@
 # Chronopsychiatry
 
-Chronopsychiatry is an informal group of researchers and clinitian interested in the relationship
-of the mental healt and circadian clock.
+Chronopsychiatry is an informal group of researchers and clinicians interested in the relationship
+between mental health and the circadian clock.
 
 These are github.io pages of the project website.
 
