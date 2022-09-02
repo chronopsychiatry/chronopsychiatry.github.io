@@ -50,7 +50,7 @@ Investigating the mechanisms underlying sleep problems and mental ill health in 
  
 <img class="img-fluid" src="total-shape-Ianw4RdVuoo-unsplash.jpg">
 
-<figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@totalshape">Total Shape</a> on <a href="[https://unsplash.com/s/photos/time?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/photos/Ianw4RdVuoo)">Unsplash</a>
+<figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@totalshape">Total Shape</a> on <a href="https://unsplash.com/photos/Ianw4RdVuoo">Unsplash</a>
 </figcaption>
  
 </div>
