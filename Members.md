@@ -5,7 +5,7 @@ title: Group Members
 
 - [Prof Daniel Smith MD](https://www.ed.ac.uk/profile/professor-daniel-j-smith); ORCID [0000-0002-2267-1951](https://orcid.org/0000-0002-2267-1951); [@ProfDanielSmith](https://twitter.com/ProfDanielSmith)
 - [Dr David Breen](https://www.research.ed.ac.uk/en/persons/david-breen); ORCID [0000-0001-9643-3713](https://orcid.org/0000-0001-9643-3713); [@breenneurology](https://twitter.com/breenneurology)
-- [Dr Breda Cullen](https://www.gla.ac.uk/researchinstitutes/healthwellbeing/staff/bredacullen/); ORCID [0000-0002-7259-9505](https://orcid.org/0000-0002-7259-9505) <br> My research is on understanding determinants of cognitive impairment in psychiatric and neurological disorders.  
+- [Dr Breda Cullen](https://www.gla.ac.uk/researchinstitutes/healthwellbeing/staff/bredacullen/); ORCID [0000-0002-7259-9505](https://orcid.org/0000-0002-7259-9505) <br> Understanding determinants of cognitive impairment in psychiatric and neurological disorders.  
 - [Dr Amy Ferguson](); ORCID []()
 - [Dr Giulia Gaggioni](); ORCID [0000-0002-6913-0968](https://orcid.org/0000-0002-6913-0968) <br> Sleep, circadian rhythms and mental health in young people.
 - [Dr Maria Gardani](https://www.ed.ac.uk/profile/dr-maria-gardani); ORCID [0000-0003-0975-5971](https://orcid.org/0000-0003-0975-5971) [@MariaGardani](https://twitter.com/MariaGardani)
@@ -22,7 +22,7 @@ title: Group Members
 - [Prof Thanasis Tsanas](); ORCID []()
 - [Dr Heather Whalley](https://www.ed.ac.uk/profile/dr-heather-whalley); ORCID [0000-0002-4505-8869](https://orcid.org/0000-0002-4505-8869); [@heathersibley99](https://twitter.com/heathersibley99) <br> Investigating bio-psycho-social risk factors for mental health problems over adolescence, including sleep and circadian data. 
 - [Dr Cathy Wyse](); ORCID []()
-- [Reesha Zahir](); ORCID []() <br> Investigating the mechanisms underlying sleep problems and mental ill health in autistic children and adolescents.
+- [Reesha Zahir](); ORCID [0000-0002-9699-4470](https://orcid.org/0000-0002-9699-4470) [@reesha_zahir](https://twitter.com/reesha_zahir)<br> Investigating the mechanisms underlying sleep problems and mental ill health in autistic children and adolescents.
 - [Dr Tomasz Zieliński](https://www.research.ed.ac.uk/en/persons/tomasz-zielinski); ORCID [0000-0002-0194-5706](https://orcid.org/0000-0002-0194-5706)
 
 ### Past members
