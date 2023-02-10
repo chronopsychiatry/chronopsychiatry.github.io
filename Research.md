@@ -27,7 +27,7 @@ We are also developing methods that make use of FitBit data from the <a href="ht
 <h5> The Circadian Mental Health Network</h5>
 <p align="justify"><a href="https://www.circadianmentalhealth.org/" target="_blank">The Circadian Mental Health Network</a> is a collaboration between researchers, clinicians, patients and the public which is focused on driving discovery and innovation at the interface of sleep, circadian rhythms and mental health.</p>
 
- <img class="img-fluid" src="CMHN.png">
+ <img class="img-fluid" src="CMHN.png" width = "100px">
  
 </div>
 
